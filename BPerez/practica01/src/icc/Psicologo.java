@@ -1,9 +1,10 @@
 import java.util.Scanner;
 /*
 *Programa para simular una sesion con un psicologo.
+*
 *@author Brandon Perez Hernandez
 *@version 1.0
-*Version de Java: OpenJDK 25.0.4.1
+*@version de Java: OpenJDK 25.0.4.1
 */
 public class Psicologo {
     public static void main(String [] args){  

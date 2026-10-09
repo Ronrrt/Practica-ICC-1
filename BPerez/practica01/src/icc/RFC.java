@@ -3,9 +3,10 @@ import java.util.Scanner;
 /*
  * Programa para generar el RFC de una persona a partir de su nombre
  * y su fecha de nacimiento
+ * 
  * @author Brandon Perez Hernandez
  * @version 1.0
- * Version de Java:OpenJDK 25.0.4.1
+ * @version de Java:OpenJDK 25.0.4.1
  */
 public class RFC {
     public static void main(String[] args) {
