@@ -13,7 +13,7 @@ El objetivo de esta práctica es que el alumno se familiarice con la creación y
 
 ## 🛠️ Contenido de la Práctica
 
-El proyecto se compone de dos programas principales integrados dentro de la estructura `BPerez/practica01/src/icc/
+El proyecto se compone de dos programas principales integrados dentro de la estructura BPerez/practica01/src/icc/
 
 ## 1. Psicólogo
 
