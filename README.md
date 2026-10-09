@@ -87,6 +87,5 @@ El RFC de Andrea Lopez Lopez es: LOLA920414
 ## 💻 Requisitos del Sistema e Instalación
 * **Java SDK:** OpenJDK 25 o superior
 * **Documentación:** Todo el código fuente está documentado siguiendo el estándar **Javadoc**.
-* **Formato:** Código debidamente indentado para mantener la legibilidad y buenas prácticas de desarrollo.
 
 *Facultad de Ciencias, UNAM — 2026*
